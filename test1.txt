@@ -2,3 +2,4 @@
 ni hao ma
 test master branch.
 test dev branch.
+test dev branch twice.
